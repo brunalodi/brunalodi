@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @brunalodi! 
-- 🌱 I’m studying systems analysis and development. I'm actually learning javascript.
+- 🌱 I’m student of Systems Analysis and Development. I'm actually learning javascript.
 - 📫 How to reach me brunalodii@gmail.com
 
 <!---
